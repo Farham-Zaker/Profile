@@ -3,8 +3,8 @@
   <br>
   <br>
 
-<a href="https://github.com/Farham-Zaker" target="_blank"><img class="icon" align="left" alt="Github" width="30px" src="https://img.icons8.com/3d-fluency/94/null/github.png" /></a>
-<a href="https://www.instagram.com/the.farham" target="_blank"><img class="icon" align="left" alt="instagram" width="30px" src="https://img.icons8.com/3d-fluency/94/null/instagram-new.png" /></a>
+<a href="https://www.instagram.com/the.farham" target="_blank"><img class="icon" align="left" alt="instagram" width="40px" src="https://img.icons8.com/3d-fluency/94/null/instagram-new.png" /></a>
+<a href="https://github.com/Farham-Zaker" target="_blank"><img class="icon" align="left" alt="Github" width="40px" src="https://img.icons8.com/3d-fluency/94/null/github.png" /></a>
 <br />
 <br />
 
@@ -28,13 +28,6 @@
 </div>
 <br />
 <br />
-
-### Softwares
-
-<div>
-  <a href="https://code.visualstudio.com/" target="_blank"><img class="icon" align="left" alt="Visual Studio Code" width="42px" src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png" />
-  <a href="https://www.postman.com/" target="_blank"> <img class="icon" align="left" alt="postman" width="42px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/> </a>
-</div>
 
 <br />
 <br />
