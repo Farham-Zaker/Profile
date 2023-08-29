@@ -1,12 +1,13 @@
 # Hey There, I'm Farham!
 
   <br>
-    Social Media
   <br>
+
+  ### Social Media
 
 <a href="https://www.instagram.com/the.farham" target="_blank"><img class="icon" align="left" alt="instagram" width="40px" src="https://img.icons8.com/3d-fluency/94/null/instagram-new.png" /></a>
 <a href="https://github.com/Farham-Zaker" target="_blank"><img class="icon" align="left" alt="Github" width="40px" src="https://img.icons8.com/3d-fluency/94/null/github.png" /></a>
-<a href="https://www.linkedin.com/in/farham-zaker/" target="_blank"><img class="icon" align="left" alt="Linkdin" width="40px" src="https://icons8.com/icon/13930/linkedin" /></a>
+<a href="https://www.linkedin.com/in/farham-zaker/" target="_blank"><img class="icon" align="left" alt="Linkdin" width="40px" src="https://img.icons8.com/3d-fluency/94/null/linkedin" /></a>
 <br />
 <br />
 
@@ -19,7 +20,7 @@
   <a href="https://git-scm.com/" target="_blank"> <img class="icon" align="left" alt="git" width="42px" src="https://img.icons8.com/color/48/null/git.png"/>
   <a href="https://github.com/" target="_blank"> <img class="icon" align="left" alt="GitHub" width="42px" src="https://img.icons8.com/3d-fluency/94/null/github.png" />
   <a href="https://www.typescriptlang.org/" target="_blank"> <img class="icon" align="left" alt="Typescript" width="42px" src="https://img.icons8.com/color/48/null/typescript.png" />
-  <a href="https://www.mysql.com/" target="_blank"> <img class="icon" align="left" alt="MySQL" width="42px" src="https://icons8.com/icon/UFXRpPFebwa2/mysql-logo" />
+  <a href="https://www.mysql.com/" target="_blank"> <img class="icon" align="left" alt="MySQL" width="42px" src="https://img.icons8.com/3d-fluency/94/null/mysql-logo" />
 </div>
 <br />
 <br />
