@@ -8,6 +8,7 @@
   <a href="https://www.instagram.com/the.farham" target="_blank">
     <img src="https://www.cdnlogo.com/logos/i/92/instagram.svg" width="50" height="50" style="margin: 0 0 9px 0;"/>
   </a>
+   &nbsp
   <a href="https://github.com/Farham-Zaker" target="_blank">
     <img src="https://img.icons8.com/3d-fluency/94/null/github.png" width="50"  height="50" style="margin: 0 0 9px 0;"/>
   </a>
