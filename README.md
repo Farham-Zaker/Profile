@@ -10,7 +10,7 @@
   </a>
    &nbsp &nbsp  &nbsp  &nbsp
   <a href="https://github.com/Farham-Zaker" target="_blank">
-    <img src="https://img.icons8.com/3d-fluency/94/null/github.png" width="50"  height="50" style="margin: 0 0 9px 0;"/>
+    <img src="https://img.icons8.com/3d-fluency/94/null/github.png" width="55"  height="55" style="margin: 0 0 9px 0;"/>
   </a>
   &nbsp  &nbsp  &nbsp
   <a href="https://www.linkedin.com/in/farham-zaker/" target="_blank">
